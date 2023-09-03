@@ -163,4 +163,4 @@ In this mode, you are able to listen to music. There are actually 2 avaiable tra
 <br>
 
 ## 📦 Restoring the default program
-For restoring MBot's default program, you can just flash the [default program .ino file](https://github.com/DarkGloves/MBot-Utility/raw/main/mbot_factory_firmware.ino), extracted from the MBlock 3 software, al credits to [Makeblock-official](https://github.com/Makeblock-official).
+For restoring MBot's default program, you can just flash the [default program .ino file](https://github.com/DarkGloves/MBot-Utility/raw/main/resources/mbot_factory_firmware.ino), extracted from the MBlock 3 software, al credits to [Makeblock-official](https://github.com/Makeblock-official).
