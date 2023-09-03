@@ -114,7 +114,7 @@ Actions:
 > Make sure to connect the line follower sensor to port 3.
 
 In this mode, your MBot will act as a *line follower*.  
-If you want toplay with it, you will need tracks. If you don't own any line-follower tracks, you can take a look at these [free printable tracks.](https://github.com/DarkGloves/MBot-Utility/tree/main/resources/printable_tracks)   
+If you want to play with it, you will need tracks. If you don't own any line-follower tracks, you can take a look at these [free printable tracks.](https://github.com/DarkGloves/MBot-Utility/tree/main/resources/printable_tracks)   
 
 Once you have a track, you just need to place the line follower module above the black path and it will automatically start following it.  
 
