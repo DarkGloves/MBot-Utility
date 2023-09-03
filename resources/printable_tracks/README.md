@@ -15,4 +15,4 @@ You can download these tracks from [here](https://github.com/DarkGloves/MBot-Uti
 
 ## 🧾 Credits
 These tracks have been downloaded from <a href="https://www.parallax.com/package/printable-tracks-for-line-following/" target="_blank">Parallax</a>.  
-They've been modified, making the line thicker and painting it completly black black.
+They've been modified, making the line thicker and painting it completly black.
