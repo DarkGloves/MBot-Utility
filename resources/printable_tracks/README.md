@@ -8,7 +8,7 @@
 ## ℹ Information
 A collection of printable tracks for the MBot's line follower.  
 
-The MBot's line follower works with IR signals, so you can refill the lines with a red pencil or alternatively print them with inkjet or laser printers.
+The MBot's line follower works with IR signals, so you can refill the lines with a black pencil or alternatively print them with inkjet or laser printers.
 
 ## ⭐ Download
 You can download these tracks from [here](https://github.com/DarkGloves/MBot-Utility/raw/main/resources/printable_tracks/tracks.zip).
