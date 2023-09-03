@@ -20,7 +20,7 @@ The installation process may vary depending on your OS, so you can follow these 
 > > [Linux installation](https://docs.arduino.cc/software/ide-v1/tutorials/Linux) 
 
 
-2. Download the `.ino` file from the [lastest release](https://github.com/DarkGloves/MBot-Utility/releases/latest/download/main.ino) of this repo.
+2. Download the `MBot-Utility.ino` file from the [lastest release](https://github.com/DarkGloves/MBot-Utility/releases/latest/download/main.ino) of this repo.
 
 3. Download the MakeBlock Libraries from [MakeBlock Libs Github Repo](https://github.com/Makeblock-official/Makeblock-Libraries)<br>*[Direct download](https://codeload.github.com/Makeblock-official/Makeblock-Libraries/zip/master)*
 
@@ -163,4 +163,4 @@ In this mode, you are able to listen to music. There are actually 2 avaiable tra
 <br>
 
 ## 📦 Restoring the default program
-For restoring MBot's default program, you can just flash the [default program .ino file](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DarkGloves/MBot-Utility/blob/main/resources/mbot_factory_firmware.ino), extracted from the MBlock 3 software, al credits to [Makeblock-official](https://github.com/Makeblock-official).
+For restoring MBot's default program, you can just flash the `mbot_factory_firmware.ino` file from the [lastest release](https://github.com/DarkGloves/MBot-Utility/releases/latest/download/mbot_factory_firmware.ino), extracted from the MBlock 3 software, al credits to [Makeblock-official](https://github.com/Makeblock-official).
