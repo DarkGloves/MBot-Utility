@@ -20,7 +20,7 @@ The installation process may vary depending on your OS, so you can follow these 
 > > [Linux installation](https://docs.arduino.cc/software/ide-v1/tutorials/Linux) 
 
 
-2. Download the `MBot-Utility.ino` file from the [lastest release](https://github.com/DarkGloves/MBot-Utility/releases/latest/download/main.ino) of this repo.
+2. Download the `MBot-Utility.ino` file from the [lastest release](https://github.com/DarkGloves/MBot-Utility/releases/latest/download/MBot-Utility.ino) of this repo.
 
 3. Download the MakeBlock Libraries from [MakeBlock Libs Github Repo](https://github.com/Makeblock-official/Makeblock-Libraries)<br>*[Direct download](https://codeload.github.com/Makeblock-official/Makeblock-Libraries/zip/master)*
 
