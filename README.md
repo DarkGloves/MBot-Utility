@@ -20,9 +20,9 @@ The installation process may vary depending on your OS, so you can follow these 
 > > [Linux installation](https://docs.arduino.cc/software/ide-v1/tutorials/Linux) 
 
 
-2. Download the `.ino` file from the [lastest release](https://github.com/) of this repo.
+2. Download the `.ino` file from the [lastest release](https://github.com/DarkGloves/MBot-Utility/releases/latest/download/main.ino) of this repo.
 
-3. Download the MakeBlock Libraries from [MakeBlock Libs Github Repo](https://github.com/Makeblock-official/Makeblock-Libraries)<br>*Or from [here.](https://codeload.github.com/Makeblock-official/Makeblock-Libraries/zip/master)*
+3. Download the MakeBlock Libraries from [MakeBlock Libs Github Repo](https://github.com/Makeblock-official/Makeblock-Libraries)<br>*[Direct download](https://codeload.github.com/Makeblock-official/Makeblock-Libraries/zip/master)*
 
 4. Open the Arduino IDE and click on `File > Open` and select the `.ino` file you downloaded at step 2.
 
@@ -114,7 +114,7 @@ Actions:
 > Make sure to connect the line follower sensor to port 3.
 
 In this mode, your MBot will act as a *line follower*.  
-If you want toplay with it, you will need tracks. If you don't own any line-follower tracks, you can take a look at these [free printable tracks.]()   
+If you want toplay with it, you will need tracks. If you don't own any line-follower tracks, you can take a look at these [free printable tracks.](https://github.com/DarkGloves/MBot-Utility/tree/main/resources/printable_tracks)   
 
 Once you have a track, you just need to place the line follower module above the black path and it will automatically start following it.  
 
@@ -163,4 +163,4 @@ In this mode, you are able to listen to music. There are actually 2 avaiable tra
 <br>
 
 ## 📦 Restoring the default program
-For restoring MBot's default program, you can just flash the [default program .ino file](), extracted from the MBlock 3 software.
+For restoring MBot's default program, you can just flash the [default program .ino file](https://github.com/DarkGloves/MBot-Utility/raw/main/mbot_factory_firmware.ino), extracted from the MBlock 3 software, al credits to [Makeblock-official](https://github.com/Makeblock-official).
