@@ -1,6 +1,10 @@
+/// MBot Utility V1.0
+/// By DarkGloves
+/// https://www.github.com/DarkGloves
+
 #include <MeMCore.h>
 
-MeDCMotor motor_9(9); // Call the motors that move the wheels on ports 9 and 10
+MeDCMotor motor_9(9);             // Call the motors that move the wheels on ports 9 and 10
 MeDCMotor motor_10(10);
 MeBuzzer buzzer;                  // Call MeBuzzer (frecuency generator) as just buzzer
 MeRGBLed rgbled(7);               // Call MeRGBLed as rgbled, connected on pin 7
@@ -281,7 +285,6 @@ public:
 };
 Lights lights;
 
-
 ///// MODES /////
 void mode_a() // RC mode
 {
@@ -394,7 +397,6 @@ void mode_a() // RC mode
     }
   }
 }
-
 
 void mode_b() // Object avoidance mode
 {
@@ -594,10 +596,12 @@ void mode_d() // Limited mode
   int speed = 100;
   int moded = 1;
   move(1, speed);
-  while (moded == 1){
-    if (linefollower.readSensors() != 3){
-      move(random(3,4), speed);
-      delay(random(96300,285300) / speed);
+  while (moded == 1)
+  {
+    if (linefollower.readSensors() != 3)
+    {
+      move(random(3, 4), speed);
+      delay(random(96300, 285300) / speed);
       move(1, speed);
     }
     if (ir.keyPressed(12))
@@ -676,7 +680,7 @@ void mode_d() // Limited mode
 }
 
 void mode_e() // Music
-{ 
+{
   song = 0;
   while (song == 0)
   {
